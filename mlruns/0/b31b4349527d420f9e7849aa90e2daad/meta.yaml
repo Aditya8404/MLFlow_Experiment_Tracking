@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/b31b4349527d420f9e7849aa90e2daad/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b31b4349527d420f9e7849aa90e2daad
+run_name: judicious-rook-93
+run_uuid: b31b4349527d420f9e7849aa90e2daad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

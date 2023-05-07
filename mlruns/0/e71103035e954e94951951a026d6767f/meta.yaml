@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/e71103035e954e94951951a026d6767f/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e71103035e954e94951951a026d6767f
+run_name: bedecked-wolf-163
+run_uuid: e71103035e954e94951951a026d6767f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

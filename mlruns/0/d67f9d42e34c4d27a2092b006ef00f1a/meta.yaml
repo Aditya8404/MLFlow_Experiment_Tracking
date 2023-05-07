@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/d67f9d42e34c4d27a2092b006ef00f1a/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d67f9d42e34c4d27a2092b006ef00f1a
+run_name: bittersweet-worm-625
+run_uuid: d67f9d42e34c4d27a2092b006ef00f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

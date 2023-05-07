@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/c08c88b0c3ce41b7afac5ac4abf35169/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c08c88b0c3ce41b7afac5ac4abf35169
+run_name: blushing-crab-97
+run_uuid: c08c88b0c3ce41b7afac5ac4abf35169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

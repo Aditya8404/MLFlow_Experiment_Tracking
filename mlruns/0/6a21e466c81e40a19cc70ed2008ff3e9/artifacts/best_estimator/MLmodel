@@ -1,0 +1,26 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.2
+mlflow_version: 2.3.1
+model_uuid: 0b4e7f601d4e4cc98e6e9919e9c87eb4
+run_id: 6a21e466c81e40a19cc70ed2008ff3e9
+signature:
+  inputs: '[{"name": "ph", "type": "double"}, {"name": "Hardness", "type": "double"},
+    {"name": "Solids", "type": "double"}, {"name": "Chloramines", "type": "double"},
+    {"name": "Sulfate", "type": "double"}, {"name": "Conductivity", "type": "double"},
+    {"name": "Organic_carbon", "type": "double"}, {"name": "Trihalomethanes", "type":
+    "double"}, {"name": "Turbidity", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-05-07 15:05:49.737058'

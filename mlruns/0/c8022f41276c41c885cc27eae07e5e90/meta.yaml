@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/c8022f41276c41c885cc27eae07e5e90/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8022f41276c41c885cc27eae07e5e90
+run_name: unleashed-fowl-708
+run_uuid: c8022f41276c41c885cc27eae07e5e90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/1c3f79be3fad4b80a946301efa584f88/artifacts
+end_time: 1683471062855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c3f79be3fad4b80a946301efa584f88
+run_name: nebulous-hen-684
+run_uuid: 1c3f79be3fad4b80a946301efa584f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471053936
+status: 3
+tags: []
+user_id: adity

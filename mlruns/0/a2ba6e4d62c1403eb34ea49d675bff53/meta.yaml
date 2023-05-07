@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/a2ba6e4d62c1403eb34ea49d675bff53/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2ba6e4d62c1403eb34ea49d675bff53
+run_name: sedate-panda-649
+run_uuid: a2ba6e4d62c1403eb34ea49d675bff53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

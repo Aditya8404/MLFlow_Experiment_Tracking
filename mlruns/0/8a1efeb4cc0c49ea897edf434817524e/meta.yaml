@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/8a1efeb4cc0c49ea897edf434817524e/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a1efeb4cc0c49ea897edf434817524e
+run_name: efficient-perch-264
+run_uuid: 8a1efeb4cc0c49ea897edf434817524e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

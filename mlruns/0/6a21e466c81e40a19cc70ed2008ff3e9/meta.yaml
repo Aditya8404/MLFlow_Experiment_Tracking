@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/6a21e466c81e40a19cc70ed2008ff3e9/artifacts
+end_time: 1683471959279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a21e466c81e40a19cc70ed2008ff3e9
+run_name: respected-ram-278
+run_uuid: 6a21e466c81e40a19cc70ed2008ff3e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity

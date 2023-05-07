@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Internship/DS%20Internship%20%28%20INNOMATICS%20%29/DS%20code/MLFlow_Experiment_Tracking/mlruns/0/e7dbaded655b4d208dbc6e63e657d1e5/artifacts
+end_time: 1683471952695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7dbaded655b4d208dbc6e63e657d1e5
+run_name: bold-cat-590
+run_uuid: e7dbaded655b4d208dbc6e63e657d1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683471917139
+status: 3
+tags: []
+user_id: adity
